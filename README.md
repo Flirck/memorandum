@@ -13,10 +13,10 @@ Aplicação desenvolvida em Kotlin, para criar memorandos em formato de todo-lis
 
 # Interface
 <p align="center">
-<img src="https://user-images.githubusercontent.com/62633114/132076564-2fc8e499-2461-47ab-bec6-1177ff9ec20f.png" width="220px"/>
-<img src="https://user-images.githubusercontent.com/62633114/132076587-86d4766f-1dec-4f0d-b1a7-4a01786f0922.png" width="220px"/>
-<img src="https://user-images.githubusercontent.com/62633114/132076591-66176346-153c-4a94-8ad9-275d9a43600f.png" width="220px"/>
-<img src="https://user-images.githubusercontent.com/62633114/132076602-95f835e4-4986-420f-98e2-10b8d2f9b5d4.png" width="220px"/>
+<img src="https://user-images.githubusercontent.com/62633114/132076564-2fc8e499-2461-47ab-bec6-1177ff9ec20f.png" width="200px"/>
+<img src="https://user-images.githubusercontent.com/62633114/132076587-86d4766f-1dec-4f0d-b1a7-4a01786f0922.png" width="200px"/>
+<img src="https://user-images.githubusercontent.com/62633114/132076591-66176346-153c-4a94-8ad9-275d9a43600f.png" width="200px"/>
+<img src="https://user-images.githubusercontent.com/62633114/132076602-95f835e4-4986-420f-98e2-10b8d2f9b5d4.png" width="200px"/>
 </p>
 
 
