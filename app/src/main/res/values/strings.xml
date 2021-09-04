@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Memorandum</string>
+    <string name="label_save_task">Salvar</string>
+    <string name="label_title">Tarefa</string>
+    <string name="label_desc">Descrição</string>
+    <string name="lable_date">Data</string>
+    <string name="lable_hour">Hora</string>
+    <string name="lable_cancel">Cancelar</string>
+    <string name="lable_tasks">Memorandum</string>
+    <string name="lable_description_new_task">Nova Tarefa</string>
+    <string name="lable_edit">Editar</string>
+    <string name="lable_delete">Deletar</string>
+    <string name="lable_you_dont_tasks">Opa,\n Sem tarefas por aqui!</string>
+    <string name="dont_task">Nenhuma tarefa! </string>
+    <string name="lable_task">Lista</string>
+</resources>
